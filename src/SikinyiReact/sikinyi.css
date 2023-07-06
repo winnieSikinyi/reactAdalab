@@ -1,0 +1,40 @@
+.heading{
+    color: rgb(214, 125, 8);
+    text-align: center;
+}
+.react{
+    margin-left: 10%;
+    
+}
+.engines{
+    color: rgb(2, 2, 44);
+    text-align: center;
+}
+.boxengine{
+    flex: content;
+    width: 50%;
+    border-radius:20px ;
+}
+.red{
+    width: 35%;
+    
+}
+.veengine{
+    flex: content;
+}
+.blue{
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+    padding: 10px;
+    
+}
+
+.Teddy{
+    width: 30%;
+    height: 170px;
+    border-radius: 20px;
+    padding: 10px;
+    
+
+}
